@@ -23,7 +23,7 @@ const Projects = () => {
     },
     {
       title: "Dynamic Content Management System",
-      description: "A secure CRUD system built with MERN stack for managing dynamic content. Includes RESTful APIs, responsive interfaces, and comprehensive validation with error handling.",
+      description: "A secure CRUD system for Student Grade Tracker built with MERN stack for managing dynamic content. Includes RESTful APIs, responsive interfaces, and comprehensive validation with error handling.",
       image: "https://www.figma.com/community/resource/acb63030-a130-4dc8-8e78-d388579a3327/thumbnail",
       tech: ["React.js", "Node.js", "MongoDB", "RESTful APIs"],
       liveUrl: "https://crud-app-mern-student-grade-tracker.netlify.app/",
@@ -44,8 +44,8 @@ const Projects = () => {
       description: "A personal portfolio website showcasing my projects, skills, and experience. Built with React and Tailwind CSS for a modern and responsive design.",
       image: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1640&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tech: ["React.js", "Tailwind CSS"],
-      liveUrl: "https://my-portfolio-website.com",
-      githubUrl: "https://github.com/Hemachandran53/my-portfolio",
+      liveUrl: "https://hemachandran-portfolio-website.netlify.app/",
+      githubUrl: "https://github.com/Hemachandran53/hc-portfolio-website",
       highlights: ["Responsive design", "Smooth scrolling", "Interactive elements"]
     }
   ];
