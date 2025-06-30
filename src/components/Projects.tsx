@@ -26,7 +26,7 @@ const Projects = () => {
       description: "Real-time messaging app with JWT auth, online status, and message history. Uses Socket.io for live chat and MongoDB for data storage. Fully responsive design.",
       image: "https://images.unsplash.com/photo-1683104691469-7b40f22caec1?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Javascript", "TailWind.css", "DaisyUI"],
-      liveUrl: "https://chat-app-project-g7o2.onrender.com/",
+      liveUrl: "https://chat-app-project-g7o2.onrender.com/login",
       githubUrl: "https://github.com/Hemachandran53/mern-chat-app",
       highlights: ["Real-time messaging", "User authentication", "Secure encryption", "Responsive UI"]
     },
