@@ -22,6 +22,15 @@ const Projects = () => {
       highlights: ["User authentication system", "Real-time activity tracking", "20% improvement in data retrieval speed"]
     },
     {
+      title: "RealTime Chat App Using MERN Stack",
+      description: "Real-time messaging app with JWT auth, online status, and message history. Uses Socket.io for live chat and MongoDB for data storage. Fully responsive design.",
+      image: "https://images.unsplash.com/photo-1683104691469-7b40f22caec1?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Javascript", "TailWind.css", "DaisyUI"],
+      liveUrl: "https://chat-app-project-g7o2.onrender.com/",
+      githubUrl: "https://github.com/Hemachandran53/mern-chat-app",
+      highlights: ["Real-time messaging", "User authentication", "Secure encryption", "Responsive UI"]
+    },
+    {
       title: "Dynamic Content Management System",
       description: "A secure CRUD system for Student Grade Tracker built with MERN stack for managing dynamic content. Includes RESTful APIs, responsive interfaces, and comprehensive validation with error handling.",
       image: "https://www.figma.com/community/resource/acb63030-a130-4dc8-8e78-d388579a3327/thumbnail",
