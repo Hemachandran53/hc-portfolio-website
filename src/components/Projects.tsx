@@ -35,9 +35,9 @@ const Projects = () => {
       description: "A secure CRUD system for Student Grade Tracker built with MERN stack for managing dynamic content. Includes RESTful APIs, responsive interfaces, and comprehensive validation with error handling.",
       image: "https://www.figma.com/community/resource/acb63030-a130-4dc8-8e78-d388579a3327/thumbnail",
       tech: ["React.js", "Node.js", "MongoDB", "RESTful APIs"],
-      liveUrl: "https://crud-app-mern-student-grade-tracker.netlify.app/",
-      githubUrl: "https://github.com/Hemachandran53/crud-student-grade-tracker-app-mern",
-      highlights: ["Secure CRUD operations", "React Router implementation", "95% reduction in input-related issues"]
+      liveUrl: "https://hc-mern-app1.netlify.app/",
+      githubUrl: "https://github.com/Hemachandran53/mern-crud-app",
+      highlights: ["Secure CRUD operations", "React Router implementation"]
     },
     {
       title: "Predictive Maintenance System",
@@ -214,3 +214,4 @@ HOW TO MODIFY THIS PROJECTS COMPONENT:
     - Delete the highlights mapping section in CardContent
     - Remove highlights property from project objects
 */
+
