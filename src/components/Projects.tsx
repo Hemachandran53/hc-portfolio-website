@@ -17,8 +17,8 @@ const Projects = () => {
       description: "A full-stack MERN application for tracking exercises with user authentication, data logging, and real-time activity monitoring. Features responsive design and optimized database queries.",
       image: "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       tech: ["React.js", "Node.js", "Express.js", "MongoDB"],
-      liveUrl: "https://exercise-tracker-website-mern.netlify.app/",
-      githubUrl: "https://github.com/Hemachandran53/exercise-tracker-using-mern",
+      liveUrl: "https://exertracker.vercel.app/login",
+      githubUrl: "https://github.com/Hemachandran53/exertracker",
       highlights: ["User authentication system", "Real-time activity tracking", "20% improvement in data retrieval speed"]
     },
     {
@@ -214,4 +214,5 @@ HOW TO MODIFY THIS PROJECTS COMPONENT:
     - Delete the highlights mapping section in CardContent
     - Remove highlights property from project objects
 */
+
 
